@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\Cykor_week1\Cykor_week1\base.c">
+    <ClCompile Include="..\..\..\Downloads\Cykor_week1\Cykor_week1\base.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
